@@ -1,0 +1,45 @@
+.scrollup {
+	z-index:     2;
+	position:    fixed;
+	right:       40px;
+	color:       @white;
+	width:       30px;
+	height:      30px;
+	line-height: 30px;
+	text-align:  center;
+	cursor:      pointer;
+	.transition();
+	opacity:     0.8;
+}
+
+.scrollup:before {
+	content:     '\f102';
+	font-size:   20px;
+	font-family: 'FontAwesome';
+}
+
+footer#colophon {
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	.footer {
+		padding: 80px 0 40px 0;
+		aside {
+			margin-bottom: 35px;
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+	}
+ 	.row aside {
+		padding-left:  15px;
+		padding-right: 15px;
+ 	}
+
+	.text-copyright {
+		max-width:  690px;
+		padding:    40px 0;
+		margin:     0 auto;
+		text-align: center;
+ 		font-size:  @font-size-small;
+ 	}
+}

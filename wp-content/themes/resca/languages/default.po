@@ -1,0 +1,2845 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Resca\n"
+"POT-Creation-Date: 2015-07-21 09:21+0700\n"
+"PO-Revision-Date: 2015-07-21 09:22+0700\n"
+"Last-Translator: \n"
+"Language-Team: ThimPress <admin@thimpress.com>\n"
+"Language: EG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_n;_nx;_n_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: \resca\n"
+
+#: resca/404.php:12
+msgid "Page Not Found!"
+msgstr ""
+
+#: resca/404.php:13
+msgid ""
+"Sorry, We couldn't find the page you're looking for. <br/> Try returning to the "
+msgstr ""
+
+#: resca/404.php:13
+msgid ""
+"homepage"
+msgstr ""
+
+#: resca/comments.php:34
+#: resca/comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: resca/comments.php:36
+#: resca/comments.php:64
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: resca/comments.php:37
+#: resca/comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: resca/comments.php:45
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: resca/comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: resca/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: resca/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: resca/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: resca/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: resca/content-page.php:14
+#: resca/content-single.php:27
+msgid "Pages:"
+msgstr ""
+
+#: resca/footer.php:41
+msgid "Go To Top"
+msgstr ""
+
+#: resca/functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: resca/functions.php:82
+msgid "Sidebar"
+msgstr ""
+
+#: resca/functions.php:92
+msgid "Menu Left"
+msgstr ""
+
+#: resca/functions.php:104
+msgid "Menu Right"
+msgstr ""
+
+#: resca/functions.php:112
+#: resca/inc/admin/customizer-sections/header-offcanvas.php:5
+msgid "Offcanvas Sidebar"
+msgstr ""
+
+#: resca/functions.php:121
+msgid "Main Bottom"
+msgstr ""
+
+#: resca/functions.php:130
+#: resca/inc/admin/customizer-sections/footer-options.php:4
+msgid "Footer"
+msgstr ""
+
+#: resca/functions.php:224
+msgid "Thim Widget"
+msgstr ""
+
+#: resca/functions.php:236
+msgid "Parallax"
+msgstr ""
+
+#: resca/functions.php:239
+msgid "If enabled, the background image will have a parallax effect."
+msgstr ""
+
+#: resca/search.php:15
+#: resca/inc/template-tags.php:263
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:303
+#: resca/inc/admin/plugins-require.php:122
+msgid "Install Required Plugins"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:304
+#: resca/inc/admin/plugins-require.php:123
+msgid "Install Plugins"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:305
+#: resca/inc/admin/plugins-require.php:124
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:306
+#: resca/inc/admin/plugins-require.php:126
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:308
+#: resca/inc/admin/plugins-require.php:127
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:313
+#: resca/inc/admin/plugins-require.php:129
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:318
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:323
+#: resca/inc/admin/plugins-require.php:139
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:333
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:338
+#: resca/inc/admin/plugins-require.php:133
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:343
+#: resca/inc/admin/plugins-require.php:135
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:353
+#: resca/inc/admin/plugins-require.php:143
+msgid "Begin installing plugin"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:358
+msgid "Begin updating plugin"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:363
+msgid "Begin activating plugin"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:368
+#: resca/inc/admin/plugins-require.php:145
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:369
+msgid "Return to the dashboard"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:370
+#: resca/framework/libs/class-tgm-plugin-activation.php:2989
+#: resca/inc/admin/plugins-require.php:146
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:371
+#: resca/framework/libs/class-tgm-plugin-activation.php:2810
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:373
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:375
+msgid "Dismiss this notice"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:376
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:494
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2177
+msgid "Required"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2180
+msgid "Recommended"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2197
+msgid "WordPress Repository"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2201
+msgid "External Source"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2205
+msgid "Pre-Packaged"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2224
+msgid "Not Installed"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2228
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2230
+msgid "Active"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2236
+msgid "Required Update not Available"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2239
+msgid "Requires Update"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2242
+msgid "Update recommended"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2299
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2302
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2305
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2308
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2402
+msgid "Installed version:"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2410
+msgid "Minimum required version:"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2422
+msgid "Available version:"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2446
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2462
+msgid "Plugin"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2463
+msgid "Source"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2464
+msgid "Type"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2468
+msgid "Version"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2472
+msgid "Status"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2599
+msgid "Install"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2605
+msgid "Update"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2608
+#: resca/framework/libs/titan-framework/class-option-edd-license.php:147
+msgid "Activate"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2667
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2669
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:2988
+msgid "Plugin activation failed."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3326
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3330
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3331
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3335
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3336
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3337
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3338
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3342
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3344
+msgid "All installations have been completed."
+msgstr ""
+
+#: resca/framework/libs/class-tgm-plugin-activation.php:3345
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:211
+msgid "Help"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:228
+msgid "Please refresh this page to start using this widget."
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:255
+msgid "Are you sure?"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:272
+#, php-format
+msgid ""
+"This query returns <a href=\"#\" class=\"preview-query-posts\">%s posts</a>."
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:278
+msgid "Select Posts"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:715
+msgid "Optional"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:841
+#: resca/framework/libs/class-tp-widgets.php:887
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">upgrade</a> to WordPress 3.5 to use media fields"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:858
+#: resca/framework/libs/class-tp-widgets.php:926
+msgid "Choose Media"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:859
+#: resca/framework/libs/class-tp-widgets.php:927
+msgid "Set Media"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:878
+#: resca/framework/libs/megamenu/class-megamenu.php:1544
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:584
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:631
+msgid "Remove"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:951
+msgid "Build Posts Query"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:982
+msgid "Item"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:1018
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:596
+msgid "Add"
+msgstr ""
+
+#: resca/framework/libs/class-tp-widgets.php:1911
+msgid "Unknown Field"
+msgstr ""
+
+#: resca/framework/libs/import/parsers.php:51
+#: resca/framework/libs/import/parsers.php:84
+#: resca/framework/libs/import/parsers.php:92
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: resca/framework/libs/import/parsers.php:52
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: resca/framework/libs/import/parsers.php:97
+#: resca/framework/libs/import/parsers.php:103
+#: resca/framework/libs/import/parsers.php:301
+#: resca/framework/libs/import/parsers.php:521
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import-class.php:37
+#, php-format
+msgid "Update Option \"%d\" error"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import-class.php:264
+msgid "Success! Options file imported"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import-class.php:266
+msgid "Invalid options file"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:38
+#: resca/framework/libs/import/tp-import.php:105
+msgid "Cannot create directory \"%\""
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:88
+msgid "Cannot get demo data package from %"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:116
+#, php-format
+msgid "Cannot store file \"%s\""
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:127
+#, php-format
+msgid "Download demo data package success \"%s\""
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:148
+#, php-format
+msgid "Extract demo data package to \"%s\" success"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:159
+msgid "There was an error unzipping demo data file."
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:277
+msgid "Import woo setting success"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:321
+msgid "Error on importing menus"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:332
+msgid "Import menus success"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:351
+msgid "Error on importing widgets"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:362
+msgid "Importing widgets success"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:379
+msgid "Error on import setting"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:391
+msgid "Import setting success"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:407
+msgid "Import slide error"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:418
+msgid "Slide is not imported"
+msgstr ""
+
+#: resca/framework/libs/import/tp-import.php:441
+msgid "Import demo data success"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:369
+msgid "Assign Authors"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:370
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:382
+msgid "Import Attachments"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:385
+msgid "Download and import file attachments"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:390
+msgid "Submit"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:417
+msgid "or create new user with login name:"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:420
+msgid "as a new user:"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:428
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:430
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:432
+msgid "- Select -"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1064
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1072
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1168
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1193
+#: resca/framework/libs/import/wordpress-importer.php:1236
+msgid "Invalid file type"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1285
+msgid "Remote server did not respond"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1292
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1300
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1306
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1313
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1477
+msgid "Import WordPress"
+msgstr ""
+
+#: resca/framework/libs/import/wordpress-importer.php:1818
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:518
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1178
+msgid "Column"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1179
+msgid "(Mega Menu)"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1190
+msgid "Move up"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1201
+msgid "Move down"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1203
+#: resca/framework/libs/megamenu/class-megamenu.php:1205
+msgid "Edit Menu Item"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1214
+#: resca/framework/libs/meta-box/post-format.php:60
+#: resca/framework/libs/post-format/meta-box/post-format.php:60
+msgid "URL"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1222
+msgid "Navigation Label"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1223
+msgid ""
+"Mega Menu Column Title <span class=\"tp_supersmall\">(if you dont want to "
+"display a title just enter a single dash: \"-\" )</span>"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1231
+msgid "Title Attribute"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1238
+msgid "link Target"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1240
+msgid "Same window or tab"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1241
+msgid "New window or tab"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1247
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1254
+msgid "link Relationship (XFN)"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1261
+#: resca/inc/widgets/icon-box/icon-box.php:114
+msgid "Description"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1278
+msgid "Click to browse icon"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1280
+msgid "Browse Icon"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1324
+msgid "Standard Dropdown"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1325
+msgid "Multicolumn Dropdown"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1326
+msgid "Widget area"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1342
+msgid "Select Widget Area"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1383
+msgid "Drop To Left Side"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1384
+msgid "Drop To Right Side"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1385
+msgid "Drop To Center"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1430
+msgid "Browse Image"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1532
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: resca/framework/libs/megamenu/class-megamenu.php:1588
+msgid "Home"
+msgstr ""
+
+#: resca/framework/libs/meta-box/post-format.php:10
+#: resca/framework/libs/meta-box/post-format.php:77
+#: resca/framework/libs/post-format/meta-box/post-format.php:10
+#: resca/framework/libs/post-format/meta-box/post-format.php:77
+msgid "Select or Upload Image"
+msgstr ""
+
+#: resca/framework/libs/meta-box/post-format.php:23
+#: resca/framework/libs/post-format/meta-box/post-format.php:23
+msgid "Video URL or Embeded Code"
+msgstr ""
+
+#: resca/framework/libs/meta-box/post-format.php:36
+#: resca/framework/libs/post-format/meta-box/post-format.php:36
+msgid "Quote"
+msgstr ""
+
+#: resca/framework/libs/meta-box/post-format.php:42
+#: resca/framework/libs/post-format/meta-box/post-format.php:42
+msgid "Author"
+msgstr ""
+
+#: resca/framework/libs/meta-box/post-format.php:48
+#: resca/framework/libs/post-format/meta-box/post-format.php:48
+msgid "Author Url"
+msgstr ""
+
+#: resca/framework/libs/meta-box/post-format.php:65
+#: resca/framework/libs/post-format/meta-box/post-format.php:65
+#: resca/inc/widgets/list-html/list-html.php:18
+#: resca/inc/widgets/list-html/list-html.php:19
+msgid "Text"
+msgstr ""
+
+#: resca/framework/libs/meta-box/post-format.php:90
+#: resca/framework/libs/post-format/meta-box/post-format.php:90
+msgid "Audio URL or Embeded Code"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:15
+msgid "Custom Featured Title Area"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:20
+msgid "Using Custom Featured Title Area?"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:31
+msgid "Custom Title and Subtitle"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:37
+msgid "Hide Title and Subtitle"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:45
+msgid "Custom Title"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:48
+msgid "Leave empty to use post title"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:53
+msgid "Subtitle"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:63
+msgid "Check this box to hide Breadcrumbs"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:68
+msgid "Custom Heading Background"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:83
+msgid "Background"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:90
+msgid "Text Color Featured Title"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:97
+msgid "Height Custom Heading "
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:100
+msgid "Use a number custom heading (px) default is 100. ex: 100"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:108
+msgid "Custom Layout"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:113
+msgid "Use Custom Layout?"
+msgstr ""
+
+#: resca/framework/libs/meta-box/setting.php:142
+msgid "(* only be used with <b> content boxed </b> layout )"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:272
+msgid "previous"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:274
+msgid "play"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:275
+msgid "pause"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:276
+msgid "next"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:277
+msgid "stop"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:279
+msgid "mute"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:282
+msgid "unmute"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:285
+msgid "max volume"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:302
+msgid "shuffle"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:305
+msgid "shuffle off"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:308
+msgid "repeat"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:311
+msgid "repeat off"
+msgstr ""
+
+#: resca/framework/libs/post-format/post-formats.php:316
+#, php-format
+msgid ""
+"<span>Update Required</span> To play the media you will need to either "
+"update your browser to a recent version or update your <a href=\"%s\" target="
+"\"_blank\">Flash plugin</a>."
+msgstr ""
+
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:251
+msgid "Delete this image"
+msgstr ""
+
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:251
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:897
+msgid "Delete"
+msgstr ""
+
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:361
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:893
+msgid "Uploaded files"
+msgstr ""
+
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:904
+msgid "Upload new files"
+msgstr ""
+
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:910
+msgid "Add more files"
+msgstr ""
+
+#: resca/framework/libs/tax-meta-class/Tax-meta-class.php:966
+msgid "Select a color"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-admin-panel.php:297
+msgid "Settings saved."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-admin-panel.php:299
+msgid "Settings reset to default."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-meta-box.php:37
+#: resca/framework/libs/titan-framework/class-theme-customizer-section.php:32
+#: resca/framework/libs/titan-framework/thim-class-customizer-section.php:39
+#: resca/framework/libs/titan-framework/thim-class-meta-box.php:36
+msgid "More Options"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-edd-license.php:129
+msgid "Your license is valid and active."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-edd-license.php:133
+msgid "Your license is invalid."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-edd-license.php:148
+msgid ""
+"Your license is valid but inactive. Click the button above to activate it."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-edd-license.php:153
+msgid ""
+"The remote server did not return a valid response. You can retry by hitting "
+"the &laquo;Save&raquo; button again."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-edd-license.php:159
+msgid "Entering your license key is mandatory to get the product updates."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-enable.php:21
+#: resca/framework/libs/titan-framework/class-option-enable.php:96
+msgid "Enabled"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-enable.php:24
+#: resca/framework/libs/titan-framework/class-option-enable.php:99
+msgid "Disabled"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-import.php:38
+msgid "Import"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-import.php:62
+msgid "Memory limit < 64M can be make importing errors"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-import.php:80
+msgid "Execution Time < 60 can be make importing errors"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-import.php:93
+msgid "Select demo data"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-save.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-save.php:24
+msgid "Reset to Defaults"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-save.php:27
+msgid "Are you sure you want to reset ALL options to their default values?"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-select-categories.php:37
+#: resca/framework/libs/titan-framework/class-option-select-categories.php:104
+#: resca/framework/libs/titan-framework/class-option-select-pages.php:30
+#: resca/framework/libs/titan-framework/class-option-select-posts.php:38
+#: resca/framework/libs/titan-framework/class-option-select-posts.php:106
+msgid "Select"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-upload-advanced.php:248
+#: resca/framework/libs/titan-framework/class-option-upload.php:202
+msgid "Select Image"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option-upload-advanced.php:251
+#: resca/framework/libs/titan-framework/class-option-upload.php:205
+msgid "Use image"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-option.php:42
+#, php-format
+msgid "Option type or extended class %s does not exist."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-titan-framework.php:90
+#, php-format
+msgid "All option IDs must be unique. The id %s has been used multiple times."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-titan-framework.php:364
+#: resca/framework/libs/titan-framework/class-titan-framework.php:410
+#, php-format
+msgid ""
+"Wrong usage of %s, this should be called inside a hook or from within a "
+"theme file."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-titan-tracking.php:70
+msgid ""
+"Help us make Titan Framework better by enabling your site to periodically "
+"send us tracking data. This is so we can know where and how Titan is being "
+"used."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-titan-tracking.php:71
+msgid "Help us and track"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/class-titan-tracking.php:72
+msgid "Don't track"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/titan-framework-checker.php:70
+msgid "Titan Framework needs to be installed."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/titan-framework-checker.php:73
+msgid "Click here to search for the plugin."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/titan-framework-checker.php:85
+msgid "Titan Framework needs to be activated."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/titan-framework-checker.php:88
+msgid "Click here to go to the plugins page and activate it."
+msgstr ""
+
+#: resca/framework/libs/titan-framework/titan-framework.php:159
+msgid "Documentation"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/titan-framework.php:161
+msgid "GitHub Repo"
+msgstr ""
+
+#: resca/framework/libs/titan-framework/titan-framework.php:163
+msgid "Issue Tracker"
+msgstr ""
+
+#: resca/inc/custom-functions.php:69
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: resca/inc/custom-functions.php:73
+#, php-format
+msgid "<span class=\"author-name\"><i class=\"fa fa-user\"></i> %s</span>"
+msgstr ""
+
+#: resca/inc/custom-functions.php:76
+#: resca/inc/template-tags.php:209
+msgid "Edit"
+msgstr ""
+
+#: resca/inc/custom-functions.php:125
+msgid "No Padding Content"
+msgstr ""
+
+#: resca/inc/custom-functions.php:182
+#: resca/inc/admin/customizer-sections/display-sharing.php:10
+#: resca/inc/admin/customizer-sections/woocommerce-sharing.php:10
+#: resca/woocommerce/woocommerce.php:113
+msgid "Facebook"
+msgstr ""
+
+#: resca/inc/custom-functions.php:185
+#: resca/inc/admin/customizer-sections/display-sharing.php:18
+#: resca/inc/admin/customizer-sections/woocommerce-sharing.php:18
+#: resca/woocommerce/woocommerce.php:116
+msgid "Twitter"
+msgstr ""
+
+#: resca/inc/custom-functions.php:188
+#: resca/inc/admin/customizer-sections/display-sharing.php:27
+#: resca/inc/admin/customizer-sections/woocommerce-sharing.php:27
+#: resca/woocommerce/woocommerce.php:122
+msgid "Google Plus"
+msgstr ""
+
+#: resca/inc/custom-functions.php:191
+#: resca/inc/admin/customizer-sections/display-sharing.php:35
+#: resca/inc/admin/customizer-sections/woocommerce-sharing.php:35
+#: resca/woocommerce/woocommerce.php:119
+msgid "Pinterest"
+msgstr ""
+
+#: resca/inc/tax-meta.php:37
+msgid "Custom Layout "
+msgstr ""
+
+#: resca/inc/tax-meta.php:42
+msgid "Custom Heading "
+msgstr ""
+
+#: resca/inc/tax-meta.php:44
+msgid "Background images Heading"
+msgstr ""
+
+#: resca/inc/tax-meta.php:45
+msgid "Background Color Heading"
+msgstr ""
+
+#: resca/inc/tax-meta.php:46
+msgid "Text Color Heading"
+msgstr ""
+
+#: resca/inc/tax-meta.php:47
+msgid "Hide Title"
+msgstr ""
+
+#: resca/inc/template-tags.php:42
+#: resca/woocommerce/loop/pagination.php:28
+msgid "Prev"
+msgstr ""
+
+#: resca/inc/template-tags.php:43
+#: resca/woocommerce/loop/pagination.php:29
+msgid "Next"
+msgstr ""
+
+#: resca/inc/template-tags.php:75
+msgid "Post navigation"
+msgstr ""
+
+#: resca/inc/template-tags.php:113
+#: resca/inc/widgets/list-post-slider/tpl/base.php:39
+msgid "Post by"
+msgstr ""
+
+#: resca/inc/template-tags.php:127
+#: resca/inc/template-tags.php:131
+msgid "on"
+msgstr ""
+
+#: resca/inc/template-tags.php:144
+msgid "0 comment"
+msgstr ""
+
+#: resca/inc/template-tags.php:144
+msgid "1 comment"
+msgstr ""
+
+#: resca/inc/template-tags.php:144
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: resca/inc/template-tags.php:191
+#: resca/inc/template-tags.php:197
+msgid ", "
+msgstr ""
+
+#: resca/inc/template-tags.php:193
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: resca/inc/template-tags.php:199
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: resca/inc/template-tags.php:205
+msgid "Leave a comment"
+msgstr ""
+
+#: resca/inc/template-tags.php:205
+msgid "1 Comment"
+msgstr ""
+
+#: resca/inc/template-tags.php:205
+msgid "% Comments"
+msgstr ""
+
+#: resca/inc/template-tags.php:227
+#: resca/inc/template-tags.php:229
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: resca/inc/template-tags.php:231
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: resca/inc/template-tags.php:233
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: resca/inc/template-tags.php:235
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: resca/inc/template-tags.php:237
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: resca/inc/template-tags.php:257
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: resca/inc/template-tags.php:261
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: resca/inc/template-tags.php:265
+msgid "Archives"
+msgstr ""
+
+#: resca/inc/admin/plugins-require.php:131
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: resca/inc/admin/plugins-require.php:137
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: resca/inc/admin/plugins-require.php:141
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: resca/inc/admin/plugins-require.php:144
+msgid "Activate installed plugin"
+msgstr ""
+
+#: resca/inc/admin/plugins-require.php:147
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/display-archive.php:55
+#: resca/inc/admin/customizer-sections/display-frontpage.php:68
+#: resca/inc/admin/customizer-sections/display-postpage.php:61
+#: resca/inc/admin/customizer-sections/woocommerce-archive.php:59
+#: resca/inc/admin/customizer-sections/woocommerce-single.php:60
+msgid "sub Title"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/display-sharing.php:3
+#: resca/inc/admin/customizer-sections/woocommerce-sharing.php:3
+msgid "Sharing"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/footer-copyright.php:3
+msgid "Copyright Options"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/footer-copyright.php:9
+msgid "Back To Top"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/footer-copyright.php:17
+#: resca/inc/admin/customizer-sections/header-offcanvas.php:28
+#: resca/inc/admin/metabox-sections/comingsoon.php:52
+msgid "Text Color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/footer-copyright.php:26
+#: resca/inc/admin/metabox-sections/comingsoon.php:98
+msgid "Copyright Text"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/footer-options.php:10
+msgid "Background footer images"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/footer-options.php:13
+msgid "Upload your background"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:4
+msgid "Main Menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:10
+msgid "Select a Layout"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:21
+msgid "Header Position"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:25
+#: resca/inc/widgets/gallery-images/gallery-images.php:50
+#: resca/inc/widgets/heading/heading.php:53
+#: resca/inc/widgets/icon-box/icon-box.php:52
+msgid "Default"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:26
+msgid "Overlay"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:32
+#: resca/inc/admin/customizer-sections/header-mobile.php:13
+#: resca/inc/admin/customizer-sections/header-offcanvas.php:20
+#: resca/inc/admin/customizer-sections/header-submenu.php:17
+#: resca/inc/admin/customizer-sections/header-toolbar.php:49
+#: resca/inc/admin/customizer-sections/header-topbar.php:35
+msgid "Background color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:33
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:29
+msgid "Pick a background color for main menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:40
+#: resca/inc/admin/customizer-sections/header-mobile.php:22
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:36
+#: resca/inc/admin/customizer-sections/header-submenu.php:34
+#: resca/inc/admin/customizer-sections/header-toolbar.php:57
+#: resca/inc/admin/customizer-sections/header-topbar.php:43
+msgid "Text color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:41
+#: resca/inc/admin/customizer-sections/header-mobile.php:23
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:37
+msgid "Pick a text color for main menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:48
+#: resca/inc/admin/customizer-sections/header-mobile.php:31
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:44
+msgid "Text Hover color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:49
+#: resca/inc/admin/customizer-sections/header-mobile.php:32
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:45
+msgid "Pick a text hover color for main menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:56
+#: resca/inc/admin/customizer-sections/header-toolbar.php:40
+#: resca/inc/admin/customizer-sections/header-topbar.php:26
+#: resca/inc/widgets/heading/heading.php:73
+#: resca/inc/widgets/icon-box/icon-box.php:72
+msgid "Font Size"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mainmenu.php:65
+msgid "Font Weight"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-mobile.php:6
+msgid "Mobile Menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-offcanvas.php:12
+msgid "Show or Hide"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-offcanvas.php:36
+msgid "Link Color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-offcanvas.php:44
+msgid "Icon"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:5
+msgid "Sticky Menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:11
+msgid "Sticky Menu on scroll"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:12
+msgid "Check to enable a fixed header when scrolling, uncheck to disable."
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:18
+msgid "Config Sticky Menu?"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-stickymenu.php:28
+msgid "Sticky Background color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-submenu.php:5
+msgid "Sub Menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-submenu.php:11
+msgid "Color Border Top"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-submenu.php:27
+msgid "Color Border Bottom"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-submenu.php:35
+msgid "Pick a text color for sub menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-submenu.php:42
+msgid "Text color hover"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-submenu.php:43
+msgid "Pick a text color hover for sub menu"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-toolbar.php:5
+#: resca/inc/admin/customizer-sections/header-topbar.php:4
+msgid "Toolbar"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-toolbar.php:12
+#: resca/inc/admin/customizer-sections/header-topbar.php:10
+msgid "Show or Hide Toolbar"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-toolbar.php:28
+msgid "Width"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-toolbar.php:32
+msgid "Boxed"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-toolbar.php:33
+msgid "Wide"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-toolbar.php:65
+#: resca/inc/admin/customizer-sections/header-topbar.php:51
+msgid "Link color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-toolbar.php:76
+msgid "Left toolbar (width)"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-topdrawer.php:4
+msgid "Drawer"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-topdrawer.php:10
+msgid "Show or Hide Drawer"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-topdrawer.php:25
+msgid "Drawer Background color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-topdrawer.php:33
+msgid "Drawer Text color"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-topdrawer.php:41
+msgid "Drawer Style"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header-topdrawer.php:60
+msgid "Drawer Open or Close"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/header.php:50
+msgid "Header"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:6
+msgid "Logo"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:11
+msgid "Header Logo"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:14
+#: resca/inc/admin/metabox-sections/comingsoon.php:15
+msgid "Upload your logo"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:19
+msgid "Sticky Logo"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:22
+msgid "Upload your sticky logo"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:26
+msgid "Width Logo"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:37
+msgid "Favicon"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/logo.php:40
+msgid "Upload your favicon"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:10
+msgid "Body"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:15
+#: resca/inc/admin/customizer-sections/typography.php:43
+#: resca/inc/admin/customizer-sections/typography.php:67
+#: resca/inc/admin/customizer-sections/typography.php:97
+#: resca/inc/admin/customizer-sections/typography.php:127
+#: resca/inc/admin/customizer-sections/typography.php:157
+#: resca/inc/admin/customizer-sections/typography.php:187
+#: resca/inc/admin/customizer-sections/typography.php:217
+msgid "Select Font"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:36
+msgid "Font Sub Title"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:62
+msgid "H1"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:91
+msgid "H2"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:121
+msgid "H3"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:151
+msgid "H4"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:181
+msgid "H5"
+msgstr ""
+
+#: resca/inc/admin/customizer-sections/typography.php:211
+msgid "H6"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:6
+msgid "Coming Soon Mode Options"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:12
+msgid "Logo Page"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:19
+msgid "Cover Color"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:23
+msgid "Black"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:24
+msgid "Blue"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:25
+msgid "Green"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:26
+msgid "Orange"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:27
+msgid "Red"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:33
+msgid "Background video"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:47
+msgid ""
+"Select an uploaded video in mp4 format. Other formats, such as webm and ogv "
+"will work in some browsers. You can use an online service such as <a href=\""
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:76
+msgid "Date Option"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:79
+#: resca/inc/admin/metabox-sections/event.php:26
+#: resca/inc/admin/metabox-sections/event.php:34
+msgid "Choose a date"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:85
+msgid "Title From"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:88
+msgid "Register now and be among the first to know more."
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/comingsoon.php:92
+msgid "ShortCode Form"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/event.php:3
+msgid "Event Options"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/event.php:9
+msgid "Use Page Event"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/event.php:16
+msgid "Desc"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/event.php:23
+msgid "Start Date"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/event.php:31
+msgid "End Date"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/onepage.php:3
+msgid "Select Menu One Page"
+msgstr ""
+
+#: resca/inc/admin/metabox-sections/onepage.php:13
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:49
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:55
+msgid "Select Menu"
+msgstr ""
+
+#: resca/inc/header/main-menu-header-2.php:30
+msgid "Menu"
+msgstr ""
+
+#: resca/inc/templates/heading-top.php:147
+msgid "Portfolio"
+msgstr ""
+
+#: resca/inc/widgets/empty-space/empty-space.php:8
+msgid "Thim: Empty Space"
+msgstr ""
+
+#: resca/inc/widgets/empty-space/empty-space.php:10
+msgid "Add space width custom height"
+msgstr ""
+
+#: resca/inc/widgets/empty-space/empty-space.php:18
+#: resca/inc/widgets/google-map/google-map.php:34
+msgid "Height"
+msgstr ""
+
+#: resca/inc/widgets/empty-space/empty-space.php:20
+msgid "Enter empty space height."
+msgstr ""
+
+#: resca/inc/widgets/event/event.php:7
+msgid "Thim: Event"
+msgstr ""
+
+#: resca/inc/widgets/event/event.php:9
+msgid "event"
+msgstr ""
+
+#: resca/inc/widgets/event/event.php:17
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:23
+msgid "Number Post"
+msgstr ""
+
+#: resca/inc/widgets/event/tpl/base.php:44
+msgid "view detail"
+msgstr ""
+
+#: resca/inc/widgets/filter-restaurant-menu/filter-restaurant-menu.php:20
+#: resca/inc/widgets/filter-restaurant-menu/filter-restaurant-menu.php:22
+msgid "Filter Restaurant Menu"
+msgstr ""
+
+#: resca/inc/widgets/filter-restaurant-menu/filter-restaurant-menu.php:30
+msgid "ID Menu"
+msgstr ""
+
+#: resca/inc/widgets/filter-restaurant-menu/filter-restaurant-menu.php:31
+msgid "Enter ID Menu. (Example: 1,2,3,...)"
+msgstr ""
+
+#: resca/inc/widgets/filter-restaurant-menu/tpl/base.php:81
+#: resca/inc/widgets/restaurant-menu/tpl/default.php:91
+#: resca/inc/widgets/tab-restaurant-menu/tpl/default.php:90
+msgid "Price"
+msgstr ""
+
+#: resca/inc/widgets/gallery/gallery.php:14
+msgid "Thim: Filter Gallery "
+msgstr ""
+
+#: resca/inc/widgets/gallery/gallery.php:16
+msgid "gallery"
+msgstr ""
+
+#: resca/inc/widgets/gallery/gallery.php:24
+msgid "Select Category"
+msgstr ""
+
+#: resca/inc/widgets/gallery/tpl/base.php:8
+msgid "All"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:9
+msgid "Thim: Gallery Images"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:11
+msgid "Add gallery image"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:19
+#: resca/inc/widgets/single-images/single-images.php:18
+msgid "Image"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:20
+#: resca/inc/widgets/single-images/single-images.php:19
+msgid "Select image from media library."
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:25
+#: resca/inc/widgets/single-images/single-images.php:24
+msgid "Image size"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:26
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\""
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:30
+#: resca/inc/widgets/single-images/single-images.php:29
+msgid "Image Link"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:31
+msgid ""
+"Enter URL if you want this image to have a link. These links are separated "
+"by comma (Ex: #,#,#,#)"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:40
+#: resca/inc/widgets/single-images/single-images.php:34
+#: resca/inc/widgets/social/social.php:55
+msgid "Link Target"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:42
+#: resca/inc/widgets/single-images/single-images.php:36
+#: resca/inc/widgets/social/social.php:57
+msgid "Same window"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:43
+#: resca/inc/widgets/single-images/single-images.php:37
+#: resca/inc/widgets/social/social.php:58
+msgid "New window"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:48
+msgid "Gallery Layout"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:51
+msgid "Slider"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:57
+#: resca/inc/widgets/heading/heading.php:116
+#: resca/inc/widgets/icon-box/icon-box.php:463
+#: resca/inc/widgets/single-images/single-images.php:56
+msgid "CSS Animation"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:59
+#: resca/inc/widgets/heading/heading.php:118
+#: resca/inc/widgets/icon-box/icon-box.php:465
+#: resca/inc/widgets/single-images/single-images.php:58
+msgid "No"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:60
+#: resca/inc/widgets/heading/heading.php:119
+#: resca/inc/widgets/icon-box/icon-box.php:466
+#: resca/inc/widgets/single-images/single-images.php:59
+msgid "Top to bottom"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:61
+#: resca/inc/widgets/heading/heading.php:120
+#: resca/inc/widgets/icon-box/icon-box.php:467
+#: resca/inc/widgets/single-images/single-images.php:60
+msgid "Bottom to top"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:62
+#: resca/inc/widgets/heading/heading.php:121
+#: resca/inc/widgets/icon-box/icon-box.php:468
+#: resca/inc/widgets/single-images/single-images.php:61
+msgid "Left to right"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:63
+#: resca/inc/widgets/heading/heading.php:122
+#: resca/inc/widgets/icon-box/icon-box.php:469
+#: resca/inc/widgets/single-images/single-images.php:62
+msgid "Right to left"
+msgstr ""
+
+#: resca/inc/widgets/gallery-images/gallery-images.php:64
+#: resca/inc/widgets/heading/heading.php:123
+#: resca/inc/widgets/icon-box/icon-box.php:470
+#: resca/inc/widgets/single-images/single-images.php:63
+msgid "Appear from center"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:7
+msgid "Thim: Google Maps"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:9
+msgid "A Google Maps widget."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:17
+#: resca/inc/widgets/icon-box/icon-box.php:26
+#: resca/inc/widgets/list-html/list-html.php:23
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:18
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:32
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:30
+#: resca/inc/widgets/social/social.php:19
+msgid "Title"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:22
+msgid "Map center"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:23
+msgid ""
+"The name of a place, town, city, or even a country. Can be an exact address "
+"too."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:27
+msgid "Settings"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:29
+msgid "Set map display options."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:38
+msgid "Zoom level"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:39
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:50
+msgid "Scroll to zoom"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:51
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:57
+msgid "Draggable"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:58
+msgid "Allow dragging the map to move it around."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:64
+msgid "Markers"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:66
+msgid "Use markers to identify points of interest on the map."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:71
+msgid "Show marker at map center"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:76
+msgid "Marker Icon"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:77
+msgid "Replaces the default map marker with your own image."
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:87
+msgid "Marker positions"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:88
+msgid "Marker"
+msgstr ""
+
+#: resca/inc/widgets/google-map/google-map.php:98
+msgid "Place"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:8
+msgid "Thim: Heading"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:10
+#: resca/inc/widgets/single-images/single-images.php:10
+msgid "Add heading text"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:18
+msgid "Sub Heading"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:23
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:17
+msgid "Heading Text"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:24
+msgid "Default value"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:28
+#: resca/inc/widgets/icon-box/icon-box.php:108
+msgid "Show Separator"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:33
+msgid "Text Heading color"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:38
+#: resca/inc/widgets/icon-box/icon-box.php:37
+msgid "Size Heading"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:40
+#: resca/inc/widgets/icon-box/icon-box.php:40
+msgid "h2"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:41
+#: resca/inc/widgets/icon-box/icon-box.php:41
+msgid "h3"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:42
+#: resca/inc/widgets/icon-box/icon-box.php:42
+msgid "h4"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:43
+#: resca/inc/widgets/icon-box/icon-box.php:43
+msgid "h5"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:44
+#: resca/inc/widgets/icon-box/icon-box.php:44
+msgid "h6"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:50
+#: resca/inc/widgets/icon-box/icon-box.php:50
+msgid "Font Heading"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:54
+#: resca/inc/widgets/icon-box/icon-box.php:53
+msgid "Custom"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:56
+#: resca/inc/widgets/icon-box/icon-box.php:55
+msgid "Select Font heading."
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:64
+msgid "Custom Font Heading"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:76
+#: resca/inc/widgets/icon-box/icon-box.php:75
+#: resca/inc/widgets/icon-box/icon-box.php:129
+msgid "custom font size"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:81
+#: resca/inc/widgets/icon-box/icon-box.php:80
+#: resca/inc/widgets/icon-box/icon-box.php:134
+msgid "Custom Font Weight"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:83
+#: resca/inc/widgets/icon-box/icon-box.php:83
+#: resca/inc/widgets/icon-box/icon-box.php:137
+msgid "Normal"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:84
+#: resca/inc/widgets/icon-box/icon-box.php:84
+#: resca/inc/widgets/icon-box/icon-box.php:138
+msgid "Bold"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:85
+#: resca/inc/widgets/icon-box/icon-box.php:85
+#: resca/inc/widgets/icon-box/icon-box.php:139
+msgid "100"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:86
+#: resca/inc/widgets/icon-box/icon-box.php:86
+#: resca/inc/widgets/icon-box/icon-box.php:140
+msgid "200"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:87
+#: resca/inc/widgets/icon-box/icon-box.php:87
+#: resca/inc/widgets/icon-box/icon-box.php:141
+msgid "300"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:88
+#: resca/inc/widgets/icon-box/icon-box.php:88
+#: resca/inc/widgets/icon-box/icon-box.php:142
+msgid "400"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:89
+#: resca/inc/widgets/icon-box/icon-box.php:89
+#: resca/inc/widgets/icon-box/icon-box.php:143
+msgid "500"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:90
+#: resca/inc/widgets/icon-box/icon-box.php:90
+#: resca/inc/widgets/icon-box/icon-box.php:144
+msgid "600"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:91
+#: resca/inc/widgets/icon-box/icon-box.php:91
+#: resca/inc/widgets/icon-box/icon-box.php:145
+msgid "700"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:92
+#: resca/inc/widgets/icon-box/icon-box.php:92
+#: resca/inc/widgets/icon-box/icon-box.php:146
+msgid "800"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:93
+#: resca/inc/widgets/icon-box/icon-box.php:93
+#: resca/inc/widgets/icon-box/icon-box.php:147
+msgid "900"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:95
+#: resca/inc/widgets/icon-box/icon-box.php:95
+#: resca/inc/widgets/icon-box/icon-box.php:149
+msgid "Select Custom Font Weight"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:100
+msgid "Custom Font Style"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:102
+msgid "inherit"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:103
+msgid "initial"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:104
+msgid "italic"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:105
+msgid "normal"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:106
+msgid "oblique"
+msgstr ""
+
+#: resca/inc/widgets/heading/heading.php:108
+msgid "Select Custom Font Style"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:7
+msgid "Thim: Icon Box"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:9
+msgid "Add icon box"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:17
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:45
+msgid "Sub Title"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:21
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:40
+msgid "Title Options"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:28
+msgid "Provide the title for this icon box."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:33
+msgid "Color Title"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:46
+msgid "Select size heading."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:63
+msgid "Custom Heading Option"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:100
+msgid "Margin Bottom Value"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:119
+msgid "Add description"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:121
+msgid "Provide the description for this icon box."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:126
+msgid "Custom Font Size"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:153
+msgid "Color Description"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:160
+msgid "Link Icon Box"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:166
+msgid "Add Link"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:167
+msgid "Provide the link that will be applied to this icon box."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:172
+msgid "Apply link to:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:178
+msgid "Select whether to use color for icon or not."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:187
+msgid "Option Button Read More"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:197
+msgid "Read More Text"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:199
+msgid "Customize the read more text."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:204
+msgid "Text Color Read More"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:205
+#: resca/inc/widgets/icon-box/icon-box.php:225
+msgid "Select whether to use text color for Read More Text or default."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:210
+msgid "Border Color Read More Text:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:211
+msgid "Select whether to use border color for Read More Text or none."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:217
+msgid "Background Color Read More Text:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:218
+msgid "Select whether to use background color for Read More Text or default."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:224
+msgid "Text Hover Color Read More"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:231
+msgid "Background Hover Color Read More Text:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:232
+msgid ""
+"Select whether to use background color when hover Read More Text or default."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:244
+msgid "Icon to display:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:258
+msgid "Font 7 Stroke Icon"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:269
+#: resca/inc/widgets/icon-box/icon-box.php:298
+msgid "Select Icon:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:270
+#: resca/inc/widgets/icon-box/icon-box.php:299
+msgid "Select the icon from the list."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:277
+#: resca/inc/widgets/icon-box/icon-box.php:306
+msgid "Icon Font Size "
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:280
+#: resca/inc/widgets/icon-box/icon-box.php:309
+msgid "Select the icon font size."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:287
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:316
+msgid "Custom Image Icon"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:327
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:328
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:338
+msgid "Width Box Icon"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:343
+msgid "Color Options"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:350
+msgid "Select Icon Color:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:351
+msgid "Select the icon color."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:355
+msgid "Icon Border Color:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:356
+msgid "Select the color for icon border."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:361
+msgid "Icon Background Color:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:362
+msgid "Select the color for icon background."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:367
+msgid "Hover Icon Color:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:368
+msgid "Select the color hover for icon."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:373
+msgid "Hover Icon Border Color:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:374
+msgid "Select the color hover for icon border."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:380
+msgid "Hover Icon Background Color:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:381
+msgid "Select the color hover for icon background ."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:388
+msgid "Layout Options"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:394
+msgid "Icon Shape"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:396
+msgid "None"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:397
+msgid "Circle"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:404
+msgid "Box Style:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:411
+msgid ""
+"Select icon position. Icon box style will be changed according to the icon "
+"position."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:416
+msgid "Text Align Shortcode:"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:428
+msgid "Widget Background"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:442
+msgid "Select video"
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:443
+msgid ""
+"Select an uploaded video in mp4 format. Other formats, such as webm and ogv "
+"will work in some browsers. You can use an online service such as <a "
+"href='http://video.online-convert.com/convert-to-mp4' target='_blank'>online-"
+"convert.com</a> to convert your videos to mp4."
+msgstr ""
+
+#: resca/inc/widgets/icon-box/icon-box.php:453
+msgid "Select cover image"
+msgstr ""
+
+#: resca/inc/widgets/list-html/list-html.php:8
+msgid "Thim: List Html Two Columns"
+msgstr ""
+
+#: resca/inc/widgets/list-html/list-html.php:10
+msgid "Add html"
+msgstr ""
+
+#: resca/inc/widgets/list-html/list-html.php:28
+msgid "Content"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:7
+msgid "Thim: Display Posts Slider"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:9
+msgid "Show Post"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:19
+msgid "From Blog"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:28
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:38
+msgid "Order by"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:30
+msgid "Popular"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:31
+msgid "Recent"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:33
+msgid "Random"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:40
+msgid "ASC"
+msgstr ""
+
+#: resca/inc/widgets/list-post-slider/list-post-slider.php:41
+msgid "DESC"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/otreservations.php:8
+#: resca/inc/widgets/otreservations/otreservations.php:10
+msgid "OpenTable Reservations"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:21
+msgid "Date"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:48
+msgid "1 Person"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:49
+msgid "2 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:50
+msgid "3 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:51
+msgid "4 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:52
+msgid "5 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:53
+msgid "6 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:54
+msgid "7 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:55
+msgid "8 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:56
+msgid "9 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:57
+msgid "10 People"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:62
+msgid "BOOK A TABLE"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:72
+msgid "Powered by OpenTable"
+msgstr ""
+
+#: resca/inc/widgets/otreservations/tpl/base.php:74
+msgid "You need to provide us with a valid numeric OpenTable restaurant ID."
+msgstr ""
+
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:20
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:22
+msgid "Restaurant Menu"
+msgstr ""
+
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:35
+msgid "Upload Background Title Image"
+msgstr ""
+
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:39
+msgid "Color"
+msgstr ""
+
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:43
+msgid "Size"
+msgstr ""
+
+#: resca/inc/widgets/restaurant-menu/restaurant-menu.php:54
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:60
+msgid "Columns"
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:8
+msgid "Thim: Single Images"
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:25
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:30
+msgid "Enter URL if you want this image to have a link."
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:42
+msgid "Image alignment"
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:45
+msgid "Align Left"
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:46
+msgid "Align Right"
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:47
+msgid "Align Center"
+msgstr ""
+
+#: resca/inc/widgets/single-images/single-images.php:52
+msgid "Images Parallax"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:9
+msgid "Thim: Social Links"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:11
+msgid "Social Links"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:23
+msgid "Facebook Url"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:27
+msgid "Twitter Url"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:31
+msgid "Google Url"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:35
+msgid "Dribble Url"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:39
+msgid "Linked in Url"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:43
+msgid "Pinterest Url"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:47
+msgid "Digg Url"
+msgstr ""
+
+#: resca/inc/widgets/social/social.php:51
+msgid "Youtube Url"
+msgstr ""
+
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:20
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:22
+msgid "Tab Restaurant Menu"
+msgstr ""
+
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:30
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:31
+msgid "Tab"
+msgstr ""
+
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:35
+msgid "Tab Title"
+msgstr ""
+
+#: resca/inc/widgets/tab-restaurant-menu/tab-restaurant-menu.php:49
+msgid "Upload Icon"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:7
+msgid "Thim: Tweets Feed"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:9
+msgid "List Tweets Feed"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:18
+msgid "TWITTER"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:22
+msgid "Consumer Key"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:23
+msgid "8MLtU0vPrqY5ID5f9R5w"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:27
+msgid "Consumer Secret"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:28
+msgid "H7wIO5OUFgbNlq5h8pzXOhyubR7awP9VCO37b2JU1A"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:32
+msgid "Access Token"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:33
+msgid "624443553-wJTdW8WTORDnggzV9C0mUFJ1nbv4kCZgxy5JKlYu"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:37
+msgid "Access Token Secret"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:38
+msgid "dsLFF01Hn3a3YcDt0DjCofoxxABkoyJkhLSa302S3fzJj"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:42
+msgid "Twitter Name"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:43
+msgid "themeforest"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:47
+msgid "Number of Tweets"
+msgstr ""
+
+#: resca/inc/widgets/tweets-feed/tweets-feed.php:48
+msgid "4"
+msgstr ""
+
+#: resca/woocommerce/archive-product.php:57
+msgid "All"
+msgstr ""
+
+#: resca/woocommerce/content-single-product-lightbox.php:76
+msgid "View Detail"
+msgstr ""
+
+#: resca/woocommerce/woocommerce.php:110
+msgid "Share item"
+msgstr ""
+
+#: resca/woocommerce/single-product/related.php:41
+msgid "Related Products"
+msgstr ""
+
+#: resca/woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: resca/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""

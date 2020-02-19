@@ -1,0 +1,108 @@
+.sliderbar-menu-controller {
+	cursor: pointer;
+}
+
+.slider-sidebar {
+	position:           fixed;
+	width:              280px;
+	z-index:            10;
+	height:             100%;
+	overflow:           auto;
+	padding:            20px;
+	top:                0;
+	right:              0;
+	-webkit-transform:  translate(280px);
+	-moz-transform:     translate(280px);
+	-ms-transform:      translate(280px);
+	-o-transform:       translate(280px);
+	transform:          translate(280px);
+	-webkit-transition: -webkit-transform 400ms ease;
+	-moz-transition:    -moz-transform 400ms ease;
+	-o-transition:      -o-transform 400ms ease;
+	transition:         transform 400ms ease;
+
+	&.opened {
+		-webkit-transform: translate(0px);
+		-moz-transform:    translate(0px);
+		-ms-transform:     translate(0px);
+		-o-transform:      translate(0px);
+		transform:         translate(0px);
+	}
+	.widget-title {
+		position:       relative;
+		padding-bottom: 20px;
+		&:after {
+			content:  "";
+			position: absolute;
+			bottom:   5px;
+			left:     0;
+			height:   2px;
+			width:    30px;
+		}
+	}
+	ul {
+		margin: 0;
+		li {
+			list-style:     none;
+			padding-bottom: 10px;
+			margin-bottom:  10px;
+			border-width:   0 0 1px 0;
+			border-style:   solid;
+			&:last-child {
+				border-width: 0;
+			}
+		}
+	}
+	aside {
+		margin-bottom: 25px;
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+}
+
+/* User Login */
+//.admin-bar {
+//	.slider-sidebar {
+//		top: 32px;
+//	}
+//}
+
+body {
+	#wrapper-container {
+		-webkit-transition: -webkit-transform 400ms ease;
+		-moz-transition:    -moz-transform 400ms ease;
+		-o-transition:      -o-transform 400ms ease;
+		transition:         transform 400ms ease;
+	}
+	&.slider-bar-opened {
+		#wrapper-container {
+			-webkit-transform: translate(-280px);
+			-moz-transform:    translate(-280px);
+			-ms-transform:     translate(-280px);
+			-o-transform:      translate(-280px);
+			transform:         translate(-280px);
+		}
+		//		&.admin-bar {
+		//			.site-header.sticky-header {
+		//				top: 0
+		//			}
+		//		}
+	}
+}
+
+.slider-bar-opened #wrapper-container {
+	cursor: url("../../images/close.png"), progress;
+}
+
+.slider-bar-opened #wrapper-container:before {
+	background: rgba(0, 0, 0, 0.5);
+	content:    "" !important;
+	display:    inline-block !important;
+	position:   absolute;
+	top:        0;
+	left:       0;
+	right:      0;
+	bottom:     0;
+	z-index:    9999;
+}

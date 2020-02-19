@@ -1,0 +1,146 @@
+.widget-area {
+	ul {
+		margin-left: 0;
+	}
+	aside {
+		overflow:      hidden;
+		margin-bottom: 25px;
+		.widget-title {
+			position:       relative;
+			margin-bottom:  20px;
+			margin-top:     0;
+			font-weight:    700;
+			text-align:     center;
+			text-transform: uppercase;
+			span {
+				z-index:       9;
+				position:      relative;
+				padding-left:  5px;
+				padding-right: 5px;
+			}
+			&:before {
+				content:    "";
+				position:   absolute;
+				left:       0;
+				right:      0;
+				height:     1px;
+				top:        50%;
+				background: @border-color;
+			}
+		}
+		ul li {
+			padding-top:    8px;
+			padding-bottom: 8px;
+			list-style:     none;
+		}
+		select {
+			max-width: 100%;
+			width:     100%;
+			border:    1px solid #ddd;
+			padding:   6px 10px;
+			&:focus {
+				outline:    none;
+				box-shadow: 0 0 0;
+			}
+		}
+	}
+	.screen-reader-text {
+		display: none;
+	}
+}
+
+/* search */
+.search-form {
+	position: relative;
+	&:after {
+		content:  "\f002";
+		font:     normal normal normal 14px/1 FontAwesome;
+		position: absolute;
+		right:    13px;
+		top:      13px;
+	}
+	label {
+		width:       100%;
+		display:     inline-block;
+		font-weight: normal;
+		.screen-reader-text {
+			display: none
+		}
+		.search-field {
+			width:         100%;
+			border-radius: 0;
+			box-shadow:    none;
+			border:        1px solid #ddd;
+			padding:       5px 10px;
+		}
+		.search-submit {
+			margin-left:  0;
+			margin-right: 0;
+		}
+	}
+	.search-submit {
+		display: none;
+		margin:  0;
+		padding: 0 16px;
+	}
+}
+
+/* Blog Search */
+.widget.thim_search_widget {
+	a.widget-search-form {
+		cursor: pointer;
+	}
+}
+
+.widget_rss {
+	.rsswidget {
+		font-weight: bold;
+	}
+	.rss-date {
+		display:    block;
+		font-style: italic;
+		font-size:  90%;
+	}
+	cite {
+		color:       #000;
+		font-weight: bold;
+	}
+}
+
+.widget_categories, .widget_pages {
+	ul li {
+		border-bottom:  1px solid @border-color;
+		margin-bottom:  10px;
+		padding-bottom: 10px;
+		text-transform: uppercase;
+		font-size:      @font-size-small;
+		font-weight:    700;
+		&:last-child {
+			border-bottom:  none;
+			padding-bottom: 0;
+			margin-bottom:  0;
+		}
+	}
+}
+
+.widget_nav_menu {
+	ul ul {
+		margin: 0 0 0 25px;
+		li {
+			margin: 0;
+		}
+	}
+	li.menu-item-has-children {
+		padding-bottom: 0;
+	}
+}
+
+.widget_recent_entries {
+	ul li {
+		.post-date {
+			font-size:  @font-size-small;
+			font-style: italic;
+			display:    block;
+		}
+	}
+}

@@ -1,0 +1,317 @@
+.thim-widget-restaurant-menu {
+	padding-bottom: 60px;
+}
+
+.erm_menu-title {
+	color:           #fff;
+	text-align:      center;
+	padding:         30px;
+	margin-bottom:   45px;
+	background-size: cover;
+	.erm_title {
+		color:       inherit;
+		margin:      0;
+		font-weight: 700;
+	}
+}
+
+.erm_menu_content.menu_content_two_column {
+	li.erm_product {
+		width: 50%;
+		float: left;
+		&:nth-child(2n+1) {
+			clear: both;
+		}
+	}
+	&:after {
+		content: "";
+		display: table;
+		clear:   both;
+	}
+}
+
+.erm_product_desc p {
+	margin-bottom: 0;
+}
+
+.erm_menu_content.layout-dotted {
+	margin: 0 -15px;
+	li {
+		list-style: none;
+	}
+
+	.erm_product_price {
+		position:     absolute;
+		text-align:   right;
+		right:        15px;
+		top:          8px;
+		background:   #fff;
+		z-index:      9;
+		padding-left: 3px;
+		ul, li {
+			margin:     0;
+			list-style: none;
+		}
+		span {
+			display: block;
+			&.price {
+				font-weight: 700;
+			}
+		}
+	}
+	.erm_product {
+		position: relative;
+		padding:       10px 15px;
+		margin-bottom: 10px;
+		&.erm_product_active {
+			.price-name {
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				text-transform: uppercase;
+				padding: 0 10px;
+				font-size: @font-size-small;
+				font-weight: 700;
+			}
+			.erm_product_price {
+				.name {
+					text-transform: uppercase;
+					position:       absolute;
+					white-space:    nowrap;
+					right:          0;
+					font-size:      13px;
+				}
+			}
+		}
+	}
+	.erm_product_title {
+		margin:         0;
+		position:       relative;
+		font-weight:    700;
+		text-transform: uppercase;
+		span {
+			background:    #fff;
+			position:      relative;
+			z-index:       9;
+			padding-right: 5px;
+		}
+		.dotted {
+			position:      absolute;
+			bottom:        10px;
+			left:          0;
+			right:         0;
+			z-index:       1;
+			margin:        0;
+			border:        0;
+			height:        1px;
+			display:       block;
+			background:    transparent;
+			border-bottom: 1px dashed #999;
+		}
+	}
+
+}
+
+.erm_menu_content.layout-default {
+	margin: 0 -15px;
+	li {
+		list-style: none;
+	}
+	.erm_product {
+		padding:       10px 15px;
+		margin-bottom: 10px;
+		.item-erm-section {
+			border:        1px solid #ddd;
+			border-radius: 5px;
+			overflow:      hidden;
+			display:       table;
+			width:         100%;
+			position: relative;
+			.price-name {
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				text-transform: uppercase;
+				padding: 0 10px;
+				border-radius: 0 0 5px 0;
+				font-size: @font-size-small;
+				font-weight: 700;
+			}
+ 		}
+		.item-left {
+			width:          -moz-calc(~"100% - 80px");
+			width:          -webkit-calc(~"100% - 80px");
+			width:          calc(~"100% - 80px");
+			display:        table-cell;
+			vertical-align: top;
+			text-align:     left;
+		}
+		&.with_image {
+			a.image-popup {
+				width:        110px;
+				float:        left;
+				margin-right: 20px;
+				position: relative;
+				z-index: 9;
+				img {
+					max-width: 100%;
+					border-radius: 5px 0 0 5px;
+				}
+			}
+		}
+		.erm_product_price {
+			width:          80px;
+			padding-left:   10px;
+			display:        table-cell;
+			vertical-align: top;
+			text-align:     left;
+			padding-top:    15px;
+			ul, ul li {
+				margin: 0;
+			}
+			.price {
+				font-weight: 700;
+			}
+			.name {
+				display: block;
+			}
+		}
+		.erm_product_title {
+			margin:         15px 0 0;
+			position:       relative;
+			font-weight:    700;
+			text-transform: uppercase;
+		}
+		.erm_product_desc {
+			padding-right: 10px;
+		}
+		&.no_image {
+			.item-erm-section .item-left {
+				padding: 15px 20px;
+				.erm_product_title {
+					margin: 0;
+				}
+			}
+		}
+	}
+}
+
+// tab menu
+.thim-widget-tab-restaurant-menu {
+	.nav-menu-tabs {
+		margin:         0;
+		background:     rgba(17, 17, 17, 0.8);
+
+		overflow:       hidden;
+		&:after {
+			content: "";
+			clear:   both;
+			display: table-cell;
+		}
+		li {
+			float:           left;
+			list-style-type: none;
+			text-align:      center;
+			position:        relative;
+			line-height:     16px;
+
+			a {
+				text-decoration: none;
+				color:           @white;
+				padding-top:    20px;
+				padding-bottom: 20px;
+				display: block;
+				position: relative;
+				&:after{
+					border-right:    1px dashed #5d5d5c;
+					content: "";
+					position: absolute;
+					top: 20px;
+					bottom: 20px;
+					right: 0;
+				}
+				span.box {
+					display:      table;
+					table-layout: fixed;
+					margin:       0 auto;
+ 					padding:         0 15px;
+					box-sizing:   border-box;
+				}
+
+				img {
+					display:        table-cell;
+					vertical-align: middle;
+				}
+
+				span.box > span {
+					padding-left:   10px;
+					display:        table-cell;
+					vertical-align: middle;
+					text-align:     left;
+					text-transform: uppercase;
+					font-weight:    700;
+					.sub-title {
+						text-transform: none;
+						font-size:      12px;
+						display:        block;
+						font-weight:    normal;
+					}
+				}
+			}
+			&.active, &:hover {
+				&:after {
+					content:       "";
+					position:      absolute;
+					bottom:        0;
+					left:          50%;
+					margin-left:   -4px;
+					width:         0;
+					height:        0;
+					border-left:   8px solid transparent;
+					border-right:  8px solid transparent;
+					border-bottom: 8px solid #fff;
+				}
+			}
+			&:last-child {
+				a:after{
+					display: none;
+				}
+			}
+		}
+	}
+	.tab-content {
+		padding: 45px 0 70px 0;
+	}
+}
+
+/***********filter***********/
+.grid, .wrapper-gallery-filter {
+	padding-top:    50px;
+	padding-bottom: 60px;
+	.mix {
+		display: none;
+	}
+}
+
+.wrapper-filter-controls {
+	text-align: center;
+}
+
+.filter-controls {
+	display:       inline-block;
+	border-bottom: 1px solid @border-color;
+	padding:       0 10px;
+	div, .filter {
+		display:        inline-block;
+		border-bottom:  1px solid transparent;
+		margin:         0 8px -1px 8px;
+		padding:        5px 8px;
+		text-transform: uppercase;
+		cursor:         pointer;
+		font-size:      @font-size-small;
+		font-weight:    700;
+		&.active, &:hover {
+			border-color: #000;
+		}
+	}
+}

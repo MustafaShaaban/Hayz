@@ -1,0 +1,84 @@
+#rt-drawer {
+//	background: @thim_bg_drawer_color;
+//	color:      @thim_drawer_text_color;
+	&.style1 {
+		position: relative;
+		#collapseDrawer {
+			overflow: hidden;
+			&.collapse {
+				display: block;
+			}
+			.widget {
+				text-align: center;
+				padding:    14px 15px;
+			}
+			.textwidget a {
+				opacity: 0.7;
+			}
+		}
+
+		.drawer_link {
+			position:    absolute;
+			width:       50px;
+			height:      50px;
+			line-height: 50px;
+			text-align:  center;
+			right:       0;
+			top:         0;
+			z-index:     999;
+			a {
+				font-size: 26px;
+				color:     @white;
+				&.collapsed {
+					i:before {
+						content: "\f107";
+					}
+				}
+			}
+		}
+	}
+
+	&.style2 {
+		position: relative;
+		width:    100%;
+		z-index:  99999;
+		#collapseDrawer {
+			overflow: hidden;
+			&.collapse {
+				display: block;
+			}
+			.widget {
+				text-align: center;
+				padding:    14px 15px;
+			}
+			.textwidget a {
+				opacity: 0.7;
+			}
+		}
+		.drawer_link {
+			position:     absolute;
+			background:   transparent;
+			width:        0;
+			height:       40px;
+			line-height:  28px;
+			top:          auto;
+			text-align:   center;
+			bottom:       -40px;
+			right:        0;
+			border-style: solid;
+			border-width: 0 40px 40px 0;
+ 			.fa-angle-up:before {
+				content:   "\f068";
+				font-size: 11px;
+				position:  absolute;
+				left:      24px;
+				top:       6px;
+				color:     @white;
+			}
+			a.collapsed i:before {
+				content: "\f067";
+			}
+		}
+
+	}
+}
