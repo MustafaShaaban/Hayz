@@ -1,3 +1,5 @@
+@import url('style.php');
+
 .catering-form {
     float: left;
     box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.5);
@@ -143,7 +145,7 @@ textarea {
 }
 
 .parallax {
-    background-image: url(../../images/frontpage-menu.jpg);
+    background-image: url(../../../images/frontpage-menu.jpg);
     background-position: center;
     background-attachment: fixed;
     margin-left: -384px;
@@ -164,8 +166,6 @@ textarea {
     box-shadow: 2px 3px 20px 20px rgba(0, 0, 0, 0.08);
     transition: all .3s ease-in-out;
 }
-
-
 
 .border-radius:hover {
     transform: scale(1.05);
