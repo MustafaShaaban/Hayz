@@ -77,7 +77,8 @@
 
         }
 
-        public function app_init() {
+        public function app_init()
+        {
 
         }
 
