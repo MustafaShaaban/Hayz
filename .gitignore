@@ -39,3 +39,7 @@
 /wp-content/themes/index.php
 /wp-content/uploads/
 /wp-content/mu-plugins/
+/wp-content/plugins/akismet/
+/wp-content/plugins/jetpack/
+/wp-content/plugins/hello-dolly/
+/wp-content/plugins/hello.php
