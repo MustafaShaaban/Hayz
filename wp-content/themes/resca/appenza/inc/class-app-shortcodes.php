@@ -23,6 +23,17 @@
             add_shortcode('app_home_mealplans_body', [$this, 'home_plans_body_html']);
         }
 
+        public function home_features_html()
+        {
+            ob_start();
+            ?>
+            <div class="cards-meal-plan">
+                <!-- Write Your Code Here -->
+            </div>
+            <?php
+            return ob_get_clean();
+        }
+
         public function home_plans_head_html()
         {
             ob_start();
@@ -62,7 +73,7 @@
                             <div class="card">
                                 <h1> <?= __($meal->post_title, 'appenza') ?> </h1>
                                 <p> <?= __($meal->post_content, 'appenza') ?> </p>
-                                <button type="button"><a href="<?= $this->inc->get_page_url('shop') ?>"><?= __('Order Online', 'appenza') ?></a></button>
+                                <button type="button"><a href="<?= $this->get_page_url('shop') ?>"><?= __('Order Online', 'appenza') ?></a></button>
                                 <a href="<?= $pdf_url ?>" target="_blank"><?= __('Sample 1 Week Menu', 'appenza') ?></a>
                             </div>
                             <?php
@@ -78,16 +89,4 @@
             return ob_get_clean();
         }
 
-        public function home_features_html()
-        {
-            ob_start();
-            ?>
-            <div class="cards-meal-plan">
-                <!-- Write Your Code here -->
-            </div>
-            <?php
-            return ob_get_clean();
-        }
     }
-
-    new App_shortCodes();
