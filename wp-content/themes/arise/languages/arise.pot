@@ -1,0 +1,813 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: arise 1.0\n"
+"POT-Creation-Date: 2018-10-09 06:52+0545\n"
+"PO-Revision-Date: 2015-08-07 08:34+0545\n"
+"Last-Translator: \n"
+"Language-Team: ThemeFreesia <themefreesia@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __e;__;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e;_e;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:31
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: content.php:43 inc/widgets/widgets-functions/post-widgets.php:132
+#: single.php:54
+msgid "No Comments"
+msgstr ""
+
+#: content.php:43 inc/widgets/widgets-functions/post-widgets.php:132
+#: single.php:54
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:43 inc/widgets/widgets-functions/post-widgets.php:132
+#: single.php:54
+msgid "% Comments"
+msgstr ""
+
+#: content.php:43 inc/widgets/widgets-functions/post-widgets.php:132
+#: single.php:54
+msgid "Comments Off"
+msgstr ""
+
+#: content.php:64 single.php:86
+msgid "Category : "
+msgstr ""
+
+#: content.php:66 single.php:87
+msgid ", "
+msgstr ""
+
+#: content.php:78 inc/customizer/arise-default-values.php:26
+#: inc/settings/arise-functions.php:196
+#: inc/widgets/widgets-functions/portfolio-widgets.php:121
+#: inc/widgets/widgets-functions/post-widgets.php:144
+#: page-templates/arise-corporate.php:66
+msgid "Read More"
+msgstr ""
+
+#: footer.php:85
+msgid "Designed by:"
+msgstr ""
+
+#: footer.php:85
+msgid "Themefreesia"
+msgstr ""
+
+#: footer.php:85
+msgid "Theme Freesia"
+msgstr ""
+
+#: footer.php:86
+msgid "Powered by:"
+msgstr ""
+
+#: footer.php:86
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:95
+msgid "Go to Top"
+msgstr ""
+
+#: functions.php:54
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Add Social Icons Only"
+msgstr ""
+
+#: functions.php:131 functions.php:132
+msgid "Review Arise"
+msgstr ""
+
+#: functions.php:134 functions.php:135
+msgid "Theme Instructions"
+msgstr ""
+
+#: functions.php:137
+msgid "Support Ticket"
+msgstr ""
+
+#: functions.php:138
+msgid "Forum"
+msgstr ""
+
+#: functions.php:140 functions.php:141
+msgid "View Demo"
+msgstr ""
+
+#: functions.php:143 functions.php:144
+msgid "View ThemeFreesia Themes"
+msgstr ""
+
+#: functions.php:150
+msgid "About Arise"
+msgstr ""
+
+#: inc/customizer/arise-default-values.php:33
+msgid "Search &hellip;"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:11
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:22
+msgid "Responsive Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:28
+msgid "ON "
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:29
+msgid "OFF"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:39
+msgid "Sidebar Layout Options"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:45
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:46
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:47
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:48
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:58
+msgid "Blog Image Display Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:64
+msgid "Blog large image display"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:65
+msgid "Blog medium image display"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:75
+msgid "Disable Entry Format from Blog Page"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:80
+msgid "Display Entry Format"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:81
+msgid "Hide Entry Format"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:82
+msgid "Show Button Only"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:83
+msgid "Hide Button Only"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:93
+msgid "Disable Entry Meta from Blog Page"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:98
+msgid "Display Entry Meta"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:99
+msgid "Hide Entry Meta"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:109
+msgid "Design Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:115
+#: inc/settings/arise-common-functions.php:57
+msgid "Full Width Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:116
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/functions/design-options.php:117
+msgid "Small Boxed Layout"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:12
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:23
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:29
+#: inc/customizer/functions/theme-options.php:83
+msgid "Front Page"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:30
+#: inc/customizer/functions/theme-options.php:84
+msgid "Entire Site"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:31
+msgid "Disable Slider"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:42
+#: inc/customizer/functions/theme-options.php:150
+msgid "Secondary Button Text"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:55
+msgid "Secondary Button Url"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:61
+msgid "Display Page Slider"
+msgstr ""
+
+#: inc/customizer/functions/featured-content-customizer.php:74
+msgid " Page Slider #"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:12
+msgid "Display FrontPage Features"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:23
+msgid "Disable in Front Page"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:37
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:52
+#: inc/widgets/widgets-functions/portfolio-widgets.php:35
+#: inc/widgets/widgets-functions/video-widgets.php:26
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/functions/frontpage-features.php:67
+msgid " Feature #"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:16
+msgid "Arise WordPress Settings"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:26
+msgid "Arise Theme Options"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:36
+msgid "Arise Slider Options"
+msgstr ""
+
+#: inc/customizer/functions/register-panel.php:46
+msgid "Arise Widgets"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:11
+msgid "Site Title & Logo Options"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:21
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:34
+msgid "Site Logo/ Text Options"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:41
+msgid "Display Site Title Only"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:42
+msgid "Display Site Logo Only"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:43
+msgid "Show Both"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:44
+msgid "Disable Both"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:48
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:59
+msgid "Display Header Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:66
+msgid "Display below Infobar"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:67
+msgid "Display above Infobar"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:77
+msgid "Enable Custom Header Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:85
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:96
+msgid "Primary Button Text"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:109
+msgid "Disable Header Image Only"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:110
+msgid "Using below settings will not increase the size of header image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:123
+msgid "Header Description"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:137
+msgid "Primary Button Link"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:163
+msgid "Secondary Button Link"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:169
+msgid "Arise Options"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:180
+msgid "Disable headerline from Slider"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:192
+msgid "Disable Top Bar"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:204
+msgid "Disable Search Form"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:216
+msgid "Disable Stick Menu"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:228
+msgid "Disable Goto Top"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:240
+msgid "Disable Top Social Icons"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:252
+msgid "Disable Buttom Social Icons"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:264
+msgid "Display Page Featured Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:277
+msgid "Reset all default settings. (Refresh it to view the effect)"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:283
+msgid "Enter your custom CSS"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:294
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:302
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:307
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:312
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/functions/theme-options.php:317
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:15
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:18
+msgid "Older Comments"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:21
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:46
+msgid "Default Layout Set in"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:46
+msgid "Customizer"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:52
+msgid "No sidebar Layout"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:62
+msgid "Left sidebar Layout"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:67
+msgid "Right sidebar Layout"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:74
+msgid "Select layout for this specific Page only"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:80
+msgid "Select layout for this specific Post only"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:155
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:158
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:160
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:162
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:164
+msgid "Audios"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:166
+msgid "Asides"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:168
+msgid "Images"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:170
+msgid "Galleries"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:172
+msgid "Videos"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:174
+msgid "Status"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:176
+msgid "Quotes"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:178
+msgid "links"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:180
+msgid "Chats"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:186
+msgid "Archives"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:191
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/settings/arise-common-functions.php:193
+msgid "Search Results"
+msgstr ""
+
+#: inc/upgrade-plus/class-customize.php:63
+msgid "Arise"
+msgstr ""
+
+#: inc/upgrade-plus/class-customize.php:64
+msgid "Upgrade To Plus"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:11
+msgid "Display Contact Us Information"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:13
+msgid "TF: Contact Us"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:26
+msgid "Contact Title:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:32
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:38
+msgid "Address Link:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:44
+msgid "Phone No 1:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:50
+msgid "Phone No 2:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:56
+msgid "Skype ID:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/contactus-widgets.php:62
+msgid "Email ID:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/parallax-widgets.php:11
+msgid "Display Parallax widgets for Front Page"
+msgstr ""
+
+#: inc/widgets/widgets-functions/parallax-widgets.php:13
+msgid "TF: FP Parallax"
+msgstr ""
+
+#: inc/widgets/widgets-functions/parallax-widgets.php:26
+#: inc/widgets/widgets-functions/portfolio-widgets.php:43
+#: inc/widgets/widgets-functions/video-widgets.php:32
+msgid "Page"
+msgstr ""
+
+#: inc/widgets/widgets-functions/parallax-widgets.php:32
+#: inc/widgets/widgets-functions/video-widgets.php:44
+msgid "Redirect Text:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/parallax-widgets.php:38
+#: inc/widgets/widgets-functions/video-widgets.php:50
+msgid "Redirect Url:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:5
+msgid "Portfolio Widget (Front Page)"
+msgstr ""
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:7
+msgid "TF: FP Portfolio Widget"
+msgstr ""
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:25
+msgid "Number of Works:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/portfolio-widgets.php:31
+#: inc/widgets/widgets-functions/post-widgets.php:30
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:11
+msgid "Displays Blog Widgets on FrontPage"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:13
+msgid "TF: FP Blog Widget"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:26
+msgid "Check to hide entry format"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:36
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:42
+msgid "Number of Post:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:46
+msgid "Show latest Posts"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:47
+msgid "Show posts from a category"
+msgstr ""
+
+#: inc/widgets/widgets-functions/post-widgets.php:50
+#: inc/widgets/widgets-functions/testimonials-widgets.php:22
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:19
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:21
+msgid "Shows widgets at Main Sidebar."
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:28
+msgid "Display Contact Info at Header "
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:30
+msgid "Shows widgets on all page."
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:36
+msgid "Front Page Section"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:38
+msgid ""
+"Shows widgets on Front Page. You may use some of this widgets: TF: Featured "
+"Recent Work, TF: Testimonial, TF: Slogan"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:45
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:47
+msgid "Shows widgets on Contact Page Template."
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:54
+msgid "Shortcode For Contact Page"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:56
+msgid ""
+"Add Contact Form 7 Shortcode using text widgets Ex: [contact-form-7 id="
+"\"137\" title=\"Contact form 1\"]"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:66
+msgid "Footer Column "
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:68
+msgid "Shows widgets at Footer Column "
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:76
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets-functions/register-widgets.php:78
+msgid "Add WooCommerce Widgets Only"
+msgstr ""
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:11
+msgid "Display Testimonial on FrontPage"
+msgstr ""
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:13
+msgid "TF: FP Testimonial"
+msgstr ""
+
+#: inc/widgets/widgets-functions/testimonials-widgets.php:27
+msgid "Number of Testimonial:"
+msgstr ""
+
+#: inc/widgets/widgets-functions/video-widgets.php:11
+msgid "Display Parallax Youtube/ Vimeo video for Front Page"
+msgstr ""
+
+#: inc/widgets/widgets-functions/video-widgets.php:13
+msgid "TF: FP Video Widget"
+msgstr ""
+
+#: inc/widgets/widgets-functions/video-widgets.php:27
+msgid ""
+"Add all iframe code at page editor to display youtube/ Vimeo video. Do not "
+"add iframe code at video content. Your iframe code will be displayed from "
+"page editor"
+msgstr ""
+
+#: inc/widgets/widgets-functions/video-widgets.php:38
+msgid "Video Content:"
+msgstr ""
+
+#: index.php:35 page-templates/contact-template.php:50
+#: page-templates/gallery-template.php:52 page.php:60 search.php:36
+#: single.php:113
+msgid "No Posts Found."
+msgstr ""
+
+#: navigation.php:17
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: navigation.php:20
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: page-templates/gallery-template.php:39 page.php:47 single.php:73
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:18
+msgid "Search ..."
+msgstr ""
+
+#: single.php:82
+msgid " "
+msgstr ""
+
+#: single.php:97
+msgid "&larr; Previous"
+msgstr ""
+
+#: single.php:98
+msgid "Next &rarr;"
+msgstr ""
+
+#: single.php:102
+msgid "&larr;"
+msgstr ""
+
+#: single.php:103
+msgid "&rarr;"
+msgstr ""

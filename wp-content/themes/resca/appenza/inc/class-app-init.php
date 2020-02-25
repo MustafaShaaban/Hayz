@@ -15,8 +15,17 @@
     class App_init
     {
         use App_functions;
+        protected $instance;
 
         public function __construct()
         {
+            $this->includes();
+            $this->instance = new \stdClass();
+            $this->instance->shortcodes = new App_shortCodes();
+        }
+
+        private function includes()
+        {
+            require_once APP_INC.'class-app-shortcodes.php';
         }
     }
